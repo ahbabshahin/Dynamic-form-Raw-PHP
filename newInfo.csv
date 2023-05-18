@@ -1,0 +1,3 @@
+newInfo,Username,text      ,,VARCHAR(50),
+,Password,password,,VARCHAR(50),
+,Gender  ,     radio,"Male   Female Others",VARCHAR(10)
